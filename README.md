@@ -1,5 +1,5 @@
 # textchannel-cryptolizard
-Gateway for sending and receiving sms messages through your browser or using our API
+Gateway for sending and receiving sms messages through your browser or using our API, using your own Android phone or someone elses.
 
 This project is planned, development has not started yet.
 
