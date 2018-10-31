@@ -14,7 +14,8 @@ There is already products on the market that allows me to turn my phone into an 
 This repository contains the following
 1. A webserver with the SMS gateway API
 2. A website to interact with the API in a chat-like manner.
-3. The Android SMS gateway client application (required)
+3. A terminal app written in python with curses.
+4. The Android SMS gateway client application (required)
 
 Features
 - Send and receive sms messages in a chat-like manner using the web interface.
