@@ -3,6 +3,8 @@ Gateway for sending and receiving sms messages through your browser or using our
 
 This project is planned, development has not started yet.
 
+![terminal](https://raw.githubusercontent.com/codingchili/textchannel-cryptolizard/master/terminal.png)
+
 #### Background
 This projets allows anyone to turn their Android phone into an SMS gateway. Why would anyone like to do this? For starters, this makes it possible to send SMS in ways you could never dream of. With this piece of software it is possible to send and receive text messages in your browser. For example if you are sitting at your computer and receiving a text; it is now possible to avoid unlocking a slow Android device when you could have used your mechanical keyboard! Time saver! 
 
